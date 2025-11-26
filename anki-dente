@@ -38,4 +38,7 @@
     "id": "DENTE-12-PERG-02",
     "pergunta_texto": "qual o objetivo na seta verde",
     "image_url_pergunta": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiklt1hjxB3IBIHSrg5BmiT75pvjYj4jqpC9kcR8iztBZmB1xvCcK3H39b6JZX2cMDDMNtG2XMUKYe4GC3Ox95uZ2s-LIvp-xagO789O2qHJUbrtF-ZhJ4Jkey_6cFyqYEQh6ADGMWpYqD5G6i39edfq2QSB2w-98puJju3VYqsB3cS6ZD3EIombvboBWWc/s537/20251126_141436.jpg",
-    "image_url_resposta": "
+    "image_url_resposta": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjksY57wVTCL39ZiC8HkGqJR8ZU69KOHe1vuSDDbIuWiGlAJ1ZDjeuazBjvW3UpVtemsO07F1pOMSaNIzSFEiO52sTAVGcpqwnjNUGJk3VhJJ4RhCXwEwn1x_0yO0vFAuPy5sQA_oAAervCVmIfYsHJBLyaJ8Qti8_1DgGSj_MU6kTnwvj_jiTWXYS7-AcM/s537/Screenshot_20251126_140706_Drive.jpg",
+    "resposta_gabarito": "incisivo lateral superior direito"
+  } // ⬅️ Não há vírgula, pois é o ÚLTIMO item.
+]
