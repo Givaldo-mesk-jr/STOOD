@@ -1,44 +1,44 @@
 [
   {
-    "id": "DENTE-11-PERG-01",
+    "id": "DENTE-11-PERG-001",
     "pergunta_texto": "Qual o nome das margens. (Setas vermelhas)",
     "image_url_pergunta": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiieDHjxgE6_tMo792t9vVtf1YxZspfHyLv3bJHapz3Shtt-eK9ESRlUA3gQ2VT2Wmnd9lvYXp8QNCCo0KCK4MpXzrsq8mxldnHhdStwyDeyJP-5iHwYUr4Ynhe2Hxmsz1zL55ww_LVXTwY2Y67yB7S7swFzWJUF8vDe0pCoWhrT4ihkODduCzhc_bbo3HB/s910/20251126_131942.jpg",
     "image_url_resposta": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8GzIZmWe2ly8o_L_pucpOyaHDB22stOHF7QBWLFA-AeHW_1XUpnPBW52f6C5rqu21LJG4iV2aqI3AXYJ_hWwmZ2A5rP9nchsPw4iT_hhv8AtflnAwOkKAPsOj6hKG1QJyr7gIMn88WTVZR-86KWWRV46aDRVXXmZWmB1f_ajIWtWVWJ_gh2QYlM_RGnJ7/s911/Screenshot_20251126_131550_Drive.jpg",
     "resposta_gabarito": "incisivo central superior direito"
-  }, // Vírgula no local CORRETO: após fechar o objeto.
+  },
   {
-    "id": "DENTE-12-PERG-02",
+    "id": "DENTE-12-PERG-002",
     "pergunta_texto": "qual o objetivo na seta verde",
     "image_url_pergunta": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqFqUOsPQTjYbVcFC4W_1gQNMwB-c2joreRqhbOKzpePcAz1j0eGirwMefxErBa-zCMfq0ccHjBdJkrcDhTub5uffF4BkDCd37TOCwcho_-pzIh50Q5saHTjCRXLzETCiBtg8pmoh8zqoG97ef93B_fWnLGrDIDjyIewvP0Ut8Aoo34Ax73ygATebwZToW/s784/20251126_133021.jpg",
     "image_url_resposta": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUCYWL2QpkIAuL6ikst4zUVOMfvwu5H_tlZ8ZhhhZuCqhTmYp-s3BJ_iuesg0wbh-RBnjLqDEOuPfBQD3F-fJ-FJ6-tEIVLxTApCx-wfy8aHOkKouzrV-wheaWjHghUfVZiVwuEWAaX5DdhsDn5FEanytsq6-UbBbS59e-sCin9LOne-liO5omKeHKVdYb/s790/Screenshot_20251126_131625_Drive.jpg",
     "resposta_gabarito": "incisivo lateral superior direito"
-  }, // Vírgula no local CORRETO.
+  },
   {
-    "id": "incisivo lateral superior 1",
+    "id": "DENTE-12-PERG-003",
     "pergunta_texto": "estrutura da seta roxa",
     "image_url_pergunta": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-EqWnBP4plHedqZ4yJcgqZhzflyDNrpDz-vrTroWVX8P_D8n7WdXxIf9CkvsvjmLbIafI3l0mRBD8GvCy_rPItG_g0MhhXScncYumCv6kyoGbbo9PIZSeH8wXdnKSuPcZEyNJMLAWSynktP3t_ZKffMNxRNX4A5z9uZmJIrEI5R52tQhrdSJ6NnrYjyKB/s887/20251126_102715.jpg",
     "image_url_resposta": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTRSCz4W0M8uQ4sL3M5dpOeN-lukz8n_qsavGzFgBCIDBTj_fYiVpaCca0h3MoxUALd6kS3_GxvSvmJSAyk_LMsGUsHrL6csDMmPnkMtCCVAousvirl_U1jTj8J80fIf_0_Fm5v4gQfX9jyojaZCnBYNLVKMUdfnCak45kNU79BlLJVXcXgpM4JDegAvJe/s959/Screenshot_20251126_104824_Drive.jpg",
     "resposta_gabarito": "veja imagem"
-  }, // Vírgula no local CORRETO.
+  },
   {
-    "id": "DENTE-11-PERG-03",
+    "id": "DENTE-11-PERG-004",
     "pergunta_texto": "Qual o nome das margens. (Setas vermelhas)",
     "image_url_pergunta": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-TmqKXKqxa2R3XGrH2darg2OKzo5KpO1SNWcV7RpsbBRAJa9cTBPqjBDgsYq6boKuxm1wXhIBQf6TSUSKb-C7Th-XcyXxRDWLLslYr5Qmi6kKFrPHU_AHc9elIxtcaJPGN5s3DpXsO8KkYQxz_v75OTmZniczSMkG-SHMyPGos4wMVE_AxkiR7uVOAVTo/s709/20251126_104515.jpg",
     "image_url_resposta": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEheVoswu7B8TS2XdouvutWSgI9EuLIihWpm8Qjq4nTNubZMjavaeVfh0YHX6MKW9-NfCvybwjPJdi6GK1ux7iF1nl-3c8zg_BgCJaCAB4gvE294jSXiUGQz502lFO56KS5-alNeRTxaLjRGRqrqOyhfvzFmWashHuXxjJ6GMJ-npTyX4O9O3SfC0D0F5ynH/s709/Screenshot_20251126_103238_Drive.jpg",
     "resposta_gabarito": "incisivo central superior direito"
-  }, // Vírgula no local CORRETO.
+  },
   {
-    "id": "DENTE-11-PERG-04",
+    "id": "DENTE-11-PERG-005",
     "pergunta_texto": "Qual o nome das margens. (Setas vermelhas)",
     "image_url_pergunta": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjW8orVUWYAucZs4HQYpWa3hJuD-1wjC8Q9TwaMUbI3qh02lMQrSv9B06x0vsk87OStjUtCHBpIjVzmzjOEdJvVcKZ4X6u3eAEtpU9tNQGMbaO-uQbtEHILh8VrCurNzl-vBo9qL5wx3Rd7hR4boJ2dihkaMHMqxGbln621z8hD8YGPQFfVdhGXh8sDkGuW/s708/20251126_141248.jpg",
     "image_url_resposta": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcrk4pUdj96bS3gI110UPPDnmH44XjiRtpb9dp0rE7Lh2vBFNDqQUxrWaBeliGto2BMarY62fPVEMJ7BJPgRVM6cQ6SO-I1uhuNuY8fTbStu7Zieegi51MpSU4zpod7A64x5UY8Vd39QQXjWyAW0M8CXaqwo5PsNLWhfx1NrGJoJMiTJCXkv0lUlayWKtT/s708/Screenshot_20251126_140714_Drive.jpg",
     "resposta_gabarito": "incisivo central superior direito"
-  }, // Vírgula no local CORRETO.
+  },
   {
-    "id": "DENTE-12-PERG-05",
+    "id": "DENTE-12-PERG-006",
     "pergunta_texto": "qual o objetivo na seta verde",
     "image_url_pergunta": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiklt1hjxB3IBIHSrg5BmiT75pvjYj4jqpC9kcR8iztBZmB1xvCcK3H39b6JZX2cMDDMNtG2XMUKYe4GC3Ox95uZ2s-LIvp-xagO789O2qHJUbrtF-ZhJ4Jkey_6cFyqYEQh6ADGMWpYqD5G6i39edfq2QSB2w-98puJju3VYqsB3cS6ZD3EIombvboBWWc/s537/20251126_141436.jpg",
     "image_url_resposta": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjksY57wVTCL39ZiC8HkGqJR8ZU69KOHe1vuSDDbIuWiGlAJ1ZDjeuazBjvW3UpVtemsO07F1pOMSaNIzSFEiO52sTAVGcpqwnjNUGJk3VhJJ4RhCXwEwn1x_0yO0vFAuPy5sQA_oAAervCVmIfYsHJBLyaJ8Qti8_1DgGSj_MU6kTnwvj_jiTWXYS7-AcM/s537/Screenshot_20251126_140706_Drive.jpg",
     "resposta_gabarito": "incisivo lateral superior direito"
-  } // ⬅️ Não há vírgula, pois é o ÚLTIMO item.
+  }
 ]
