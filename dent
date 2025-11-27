@@ -1,12 +1,48 @@
   {
 
-        "id": "DENTE-11-PERG-001",
+        "id": "DENTE-11-PERG-011",
 
         "pergunta_texto": "Qual o nome das margens. (Setas vermelhas)",
 
-        "image_url_pergunta": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiieDHjxgE6_tMo792t9vVtf1YxZspfHyLv3bJHapz3Shtt-eK9ESRlUA3gQ2VT2Wmnd9lvYXp8QNCCo0KCK4MpXzrsq8mxldnHhdStwyDeyJP-5iHwYUr4Ynhe2Hxmsz1zL55ww_LVXTwY2Y67yB7S7swFzWJUF8vDe0pCoWhrT4ihkODduCzhc_bbo3HB/s910/20251126_131942.jpg",
+        "image_url_pergunta": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgB_ZefvtVChBMsjr1zT1muC2Yduy3lwCJEonQhiEne5Q2qTmI00zvUFLHBXqkU_cRx41tIkdVqu0IujWwqvekM1TtlZ9HrQ-2HhmP7GK_pFktPgT8NOygNBZboSxdlZZsvuurGE1oMrU_rRAkcmKHQCzNuIDuPGyMTfSdjuGSkYe6Amc4iCshliYjaeBIh/s773/20251127_113957.jpg",
 
-        "image_url_resposta": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8GzIZmWe2ly8o_L_pucpOyaHDB22stOHF7QBWLFA-AeHW_1XUpnPBW52f6C5rqu21LJG4iV2aqI3AXYJ_hWwmZ2A5rP9nchsPw4iT_hhv8AtflnAwOkKAPsOj6hKG1QJyr7gIMn88WTVZR-86KWWRV46aDRVXXmZWmB1f_ajIWtWVWJ_gh2QYlM_RGnJ7/s911/Screenshot_20251126_131550_Drive.jpg",
+        "image_url_resposta": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiz5_o0B4QoCY91QoIcw17nsSJfSxeLT1kaHUN4Xb7LZ32V2D8vJheUzjU-bfIJ85mnDhgHiIUCpIxSSjKLYeY6lId6crkEnC2VL-NnSoLUbsXbPjv7yeB1iM8xcio469tftRF1SO8r_Czm-S7TYB4OPSMr1mpK1mSynRV2LZhrHg-EqmME8E8_2gk4JB3G/s773/Screenshot_20251127_104541_Drive.jpg",
+
+        "resposta_gabarito": "desne"
+
+      },  {
+
+        "id": "DENTE-11-PERG-012",
+
+        "pergunta_texto": "Qual o nome das margens. (Setas vermelhas)",
+
+        "image_url_pergunta": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBT80ywvIMwrt23jypFIf1La9uf4bxNDckXqxBn4PZk4pp6bBvFhxi29HP39ksfLf2Ch4bFJh9je9c7l6xCGiD2reuHdmF50ZsRhG0z13XrB3mvrZ2hAu-kDVl6V8GvBFzik48pLAbZx9FVrdnAH__sOL53LI7c-e1BGHlDyzz6pExGc6hjwg46q746JD7/s940/20251127_114303.jpg",
+
+        "image_url_resposta": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTFle6Ez2z-BcM_xHemOIZRXpp4KD9iid-zYzl0rh0SFsBhXizbJHd3rN3chNSxj6PMXigLml3dffeeGLirhXCO_8lwam1Z14LrBiXdYxorK1HgZpr72wPKi1XpCoDXkUYaH-Nv4vCGSN3c4QyngPOhwvGfjl1Tq6o0Zqb-HJFtn5_vUImiQ9p-G3ZkVF0/s940/Screenshot_20251127_104552_Drive.jpg",
+
+        "resposta_gabarito": "incisivo central superior direito"
+
+      },  {
+
+        "id": "DENTE-11-PERG-013",
+
+        "pergunta_texto": "Qual o nome das margens. (Setas vermelhas)",
+
+        "image_url_pergunta": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGz08KuhUzA3wx39jJ7_6XfY4130im3qROyQM6uDiHd5rcyLByzh9CG5pD4QigsCAe980VxhINx4fnItVA8MXIos9JDuor9hqDGOxkrjIRBgHYMr2qRXfefIvfCoIkWz8ZLzsByFGz86bnUlqQnoh0rRCdlST3SSAqUIuksl8pgAwnVO6lVornR1vYxULI/s741/20251127_114428.jpg",
+
+        "image_url_resposta": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBIwTjKQBlONX-ucPElHAtBxbjzpPYMrSLK1Q0rgKLAEP0IH8M19uSYmE9gmAHp1HCXMjoGWEi3dVNZbBcru7EulhHQPeuan1BjNDolaInCKRD6WAQsA2GKUqyizUpUkBSH1xy0Qf3QR3obl7VSOS-Euf3zVMz5yX7-Nl5JDH_rM-WVbVgGjkc-dSftqip/s741/Screenshot_20251127_104642_Drive.jpg",
+
+        "resposta_gabarito": "incisivo central superior direito"
+
+      },  {
+
+        "id": "DENTE-11-PERG-014",
+
+        "pergunta_texto": "Qual o nome das margens. (Setas vermelhas)",
+
+        "image_url_pergunta": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQHgMLsNTJMMQcAtnN_vu9qXT9LRJr81o8mZi9RoMzIBcjE_EJqbz7ClnZKJgisdwHGEKRkUeS49vVDmlwY5hU9M233HJcDq7Vwx2kK4QVOck7XCSFnyACdcwMT41R8DgPuuibyiA0bFNQar268KiOIqwSp2O6oJmW2sV9L_HXHY_t816QTm6IomgmLKVc/s918/20251127_114715.jpg",
+
+        "image_url_resposta": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiw83ScKaW9NzexlS6ybfa7qb0RH0JvbsCNM9kTo8C-xYRh5i09qBffpfc0RI10hIBKbMHRITu0WYIRy7fvwrqpCkZfinZkP266reqLTasBmnRl6BjqAvgGrKeoLIdG_0AFzy9-0cS0sh0iQjkjXPCvj4cTRQULW-Vxd3AS0mHdxWb4BwJuxs5779VLg-Va/s918/Screenshot_20251127_104627_Drive.jpg",
 
         "resposta_gabarito": "incisivo central superior direito"
 
