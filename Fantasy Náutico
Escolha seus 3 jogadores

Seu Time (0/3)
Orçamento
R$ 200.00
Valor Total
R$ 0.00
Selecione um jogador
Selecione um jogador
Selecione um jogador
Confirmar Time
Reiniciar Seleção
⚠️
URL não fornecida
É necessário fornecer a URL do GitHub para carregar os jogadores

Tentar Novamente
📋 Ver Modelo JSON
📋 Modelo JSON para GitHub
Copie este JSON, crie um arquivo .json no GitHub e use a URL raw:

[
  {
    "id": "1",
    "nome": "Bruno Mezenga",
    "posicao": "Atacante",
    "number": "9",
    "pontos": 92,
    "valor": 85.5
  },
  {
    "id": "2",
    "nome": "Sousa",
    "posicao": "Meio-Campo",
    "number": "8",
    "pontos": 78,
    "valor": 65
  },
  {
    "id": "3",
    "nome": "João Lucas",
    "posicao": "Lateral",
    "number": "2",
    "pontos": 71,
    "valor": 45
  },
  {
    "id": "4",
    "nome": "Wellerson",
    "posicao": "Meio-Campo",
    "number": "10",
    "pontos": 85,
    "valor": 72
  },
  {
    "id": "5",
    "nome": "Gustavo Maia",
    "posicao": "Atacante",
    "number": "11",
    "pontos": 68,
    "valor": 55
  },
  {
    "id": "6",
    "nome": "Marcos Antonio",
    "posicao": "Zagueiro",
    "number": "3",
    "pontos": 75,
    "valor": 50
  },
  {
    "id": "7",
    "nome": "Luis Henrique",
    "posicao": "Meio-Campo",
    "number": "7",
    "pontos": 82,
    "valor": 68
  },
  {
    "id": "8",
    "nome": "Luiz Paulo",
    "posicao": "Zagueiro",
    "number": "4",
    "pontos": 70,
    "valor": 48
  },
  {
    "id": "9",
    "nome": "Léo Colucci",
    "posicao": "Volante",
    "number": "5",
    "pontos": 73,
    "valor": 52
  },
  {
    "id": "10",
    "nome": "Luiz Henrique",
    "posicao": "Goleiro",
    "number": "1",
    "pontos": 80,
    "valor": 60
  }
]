@@ -1,0 +1,83 @@
+
+[
+  {
+    "id": "1",
+    "nome": "Bruno Mezenga",
+    "posicao": "Atacante",
+    "number": "9",
+    "pontos": 92,
+    "valor": 85.5
+  },
+  {
+    "id": "2",
+    "nome": "Sousa",
+    "posicao": "Meio-Campo",
+    "number": "8",
+    "pontos": 78,
+    "valor": 65
+  },
+  {
+    "id": "3",
+    "nome": "João Lucas",
+    "posicao": "Lateral",
+    "number": "2",
+    "pontos": 71,
+    "valor": 45
+  },
+  {
+    "id": "4",
+    "nome": "Wellerson",
+    "posicao": "Meio-Campo",
+    "number": "10",
+    "pontos": 85,
+    "valor": 72
+  },
+  {
+    "id": "5",
+    "nome": "Gustavo Maia",
+    "posicao": "Atacante",
+    "number": "11",
+    "pontos": 68,
+    "valor": 55
+  },
+  {
+    "id": "6",
+    "nome": "Marcos Antonio",
+    "posicao": "Zagueiro",
+    "number": "3",
+    "pontos": 75,
+    "valor": 50
+  },
+  {
+    "id": "7",
+    "nome": "Luis Henrique",
+    "posicao": "Meio-Campo",
+    "number": "7",
+    "pontos": 82,
+    "valor": 68
+  },
+  {
+    "id": "8",
+    "nome": "Luiz Paulo",
+    "posicao": "Zagueiro",
+    "number": "4",
+    "pontos": 70,
+    "valor": 48
+  },
+  {
+    "id": "9",
+    "nome": "Léo Colucci",
+    "posicao": "Volante",
+    "number": "5",
+    "pontos": 73,
+    "valor": 52
+  },
+  {
+    "id": "10",
+    "nome": "Luiz Henrique",
+    "posicao": "Goleiro",
+    "number": "1",
+    "pontos": 80,
+    "valor": 60
+  }
+]
