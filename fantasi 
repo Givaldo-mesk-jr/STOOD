@@ -4,7 +4,7 @@
     "nome": "Bruno Mezenga",
     "posicao": "Atacante",
     "number": "9",
-    "pontos": 92,
+    "pontos": 0,
     "valor": 85.5
   },
   {
@@ -12,7 +12,7 @@
     "nome": "Sousa",
     "posicao": "Meio-Campo",
     "number": "8",
-    "pontos": 78,
+    "pontos": 0,
     "valor": 65
   },
   {
@@ -20,7 +20,7 @@
     "nome": "João Lucas",
     "posicao": "Lateral",
     "number": "2",
-    "pontos": 71,
+    "pontos": 0,
     "valor": 45
   },
   {
@@ -28,7 +28,7 @@
     "nome": "Wellerson",
     "posicao": "Meio-Campo",
     "number": "10",
-    "pontos": 85,
+    "pontos": 0,
     "valor": 72
   },
   {
@@ -36,7 +36,7 @@
     "nome": "Gustavo Maia",
     "posicao": "Atacante",
     "number": "11",
-    "pontos": 68,
+    "pontos": 0,
     "valor": 55
   },
   {
@@ -44,7 +44,7 @@
     "nome": "Marcos Antonio",
     "posicao": "Zagueiro",
     "number": "3",
-    "pontos": 75,
+    "pontos": 0,
     "valor": 50
   },
   {
@@ -52,7 +52,7 @@
     "nome": "Luis Henrique",
     "posicao": "Meio-Campo",
     "number": "7",
-    "pontos": 82,
+    "pontos": 0,
     "valor": 68
   },
   {
@@ -60,7 +60,7 @@
     "nome": "Luiz Paulo",
     "posicao": "Zagueiro",
     "number": "4",
-    "pontos": 70,
+    "pontos": 00,
     "valor": 48
   },
   {
@@ -68,7 +68,7 @@
     "nome": "Léo Colucci",
     "posicao": "Volante",
     "number": "5",
-    "pontos": 73,
+    "pontos": 0,
     "valor": 52
   },
   {
@@ -76,7 +76,7 @@
     "nome": "Luiz Henrique",
     "posicao": "Goleiro",
     "number": "1",
-    "pontos": 80,
+    "pontos": 0,
     "valor": 60
   }
 ]
