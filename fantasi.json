@@ -1,82 +1,32 @@
 [
-  {
-    "id": "1",
-    "nome": "Bruno Mezenga",
-    "posicao": "Atacante",
-    "number": "9",
-    "pontos": 0,
-    "valor": 85.5
-  },
-  {
-    "id": "2",
-    "nome": "Sousa",
-    "posicao": "Meio-Campo",
-    "number": "8",
-    "pontos": 0,
-    "valor": 65
-  },
-  {
-    "id": "3",
-    "nome": "João Lucas",
-    "posicao": "Lateral",
-    "number": "2",
-    "pontos": 0,
-    "valor": 45
-  },
-  {
-    "id": "4",
-    "nome": "Wellerson",
-    "posicao": "Meio-Campo",
-    "number": "10",
-    "pontos": 0,
-    "valor": 72
-  },
-  {
-    "id": "5",
-    "nome": "Gustavo Maia",
-    "posicao": "Atacante",
-    "number": "11",
-    "pontos": 0,
-    "valor": 55
-  },
-  {
-    "id": "6",
-    "nome": "Marcos Antonio",
-    "posicao": "Zagueiro",
-    "number": "3",
-    "pontos": 0,
-    "valor": 50
-  },
-  {
-    "id": "7",
-    "nome": "Luis Henrique",
-    "posicao": "Meio-Campo",
-    "number": "7",
-    "pontos": 0,
-    "valor": 68
-  },
-  {
-    "id": "8",
-    "nome": "Luiz Paulo",
-    "posicao": "Zagueiro",
-    "number": "4",
-    "pontos": 0,
-    "valor": 48
-  },
-  {
-    "id": "9",
-    "nome": "Léo Colucci",
-    "posicao": "Volante",
-    "number": "5",
-    "pontos": 0,
-    "valor": 52
-  },
-  {
-    "id": "10",
-    "nome": "Luiz Henrique",
-    "posicao": "Goleiro",
-    "number": "1",
-    "pontos": 0,
-    "valor": 60
-  }
+  { "id": "120261", "nome": "Muriel", "posicao": "Goleiro", "number": "ND", "pontos": 0, "valor": 65.0 },
+  { "id": "120262", "nome": "Gastón Guruceaga", "posicao": "Goleiro", "number": "ND", "pontos": 0, "valor": 60.0 },
+  { "id": "120263", "nome": "Nikollas (base)", "posicao": "Goleiro", "number": "ND", "pontos": 0, "valor": 35.0 },
+  { "id": "120264", "nome": "Arnaldo", "posicao": "Lateral", "number": "ND", "pontos": 0, "valor": 55.0 },
+  { "id": "120265", "nome": "Igor Fernandes", "posicao": "Lateral", "number": "ND", "pontos": 0, "valor": 55.0 },
+  { "id": "120266", "nome": "Yuri Silva", "posicao": "Lateral", "number": "ND", "pontos": 0, "valor": 50.0 },
+  { "id": "120267", "nome": "Reginaldo", "posicao": "Lateral", "number": "ND", "pontos": 0, "valor": 52.0 },
+  { "id": "120268", "nome": "Luiz Paulo", "posicao": "Lateral", "number": "ND", "pontos": 0, "valor": 52.0 },
+  { "id": "120269", "nome": "Fágner Alemão", "posicao": "Zagueiro", "number": "ND", "pontos": 0, "valor": 58.0 },
+  { "id": "1202610", "nome": "Mateus Silva", "posicao": "Zagueiro", "number": "ND", "pontos": 0, "valor": 58.0 },
+  { "id": "1202611", "nome": "Wanderson", "posicao": "Zagueiro", "number": "ND", "pontos": 0, "valor": 54.0 },
+  { "id": "1202612", "nome": "Índio", "posicao": "Zagueiro", "number": "ND", "pontos": 0, "valor": 45.0 },
+  { "id": "1202613", "nome": "Denis (base)", "posicao": "Zagueiro", "number": "ND", "pontos": 0, "valor": 30.0 },
+  { "id": "1202614", "nome": "Auremir", "posicao": "Volante", "number": "ND", "pontos": 0, "valor": 62.0 },
+  { "id": "1202615", "nome": "Wenderson", "posicao": "Volante", "number": "ND", "pontos": 0, "valor": 60.0 },
+  { "id": "1202616", "nome": "Samuel", "posicao": "Volante", "number": "ND", "pontos": 0, "valor": 55.0 },
+  { "id": "1202617", "nome": "Ramon Carvalho", "posicao": "Volante", "number": "ND", "pontos": 0, "valor": 58.0 },
+  { "id": "1202618", "nome": "Leandro Vilela", "posicao": "Volante", "number": "ND", "pontos": 0, "valor": 60.0 },
+  { "id": "1202619", "nome": "Guilherme (base)", "posicao": "Volante", "number": "ND", "pontos": 0, "valor": 35.0 },
+  { "id": "1202620", "nome": "Liedson (base)", "posicao": "Volante", "number": "ND", "pontos": 0, "valor": 35.0 },
+  { "id": "1202621", "nome": "Dodô", "posicao": "Meia", "number": "ND", "pontos": 0, "valor": 75.0 },
+  { "id": "1202622", "nome": "Vinícius", "posicao": "Atacante", "number": "ND", "pontos": 0, "valor": 78.0 },
+  { "id": "1202623", "nome": "Kayon", "posicao": "Atacante", "number": "ND", "pontos": 0, "valor": 72.0 },
+  { "id": "1202624", "nome": "Kevyn (base)", "posicao": "Atacante", "number": "ND", "pontos": 0, "valor": 40.0 },
+  { "id": "1202625", "nome": "Rodrigo Leal", "posicao": "Atacante", "number": "ND", "pontos": 0, "valor": 65.0 },
+  { "id": "1202626", "nome": "Jonas Toró", "posicao": "Atacante", "number": "ND", "pontos": 0, "valor": 80.0 },
+  { "id": "1202627", "nome": "Júnior Todinho", "posicao": "Atacante", "number": "ND", "pontos": 0, "valor": 82.0 },
+  { "id": "1202628", "nome": "Kauã Moreira (base)", "posicao": "Atacante", "number": "ND", "pontos": 0, "valor": 38.0 },
+  { "id": "1202629", "nome": "Samuel Otusanya", "posicao": "Atacante", "number": "ND", "pontos": 0, "valor": 70.0 },
+  { "id": "1202630", "nome": "Paulo Sérgio", "posicao": "Atacante", "number": "ND", "pontos": 0, "valor": 90.0 }
 ]
